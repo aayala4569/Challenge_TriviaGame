@@ -1,0 +1,169 @@
+{
+   "foodieLand1": [
+    {
+        "Q":"What fast-food item was added to the McDonald's menu in 1968?",
+        "a1":"McRib Sandwich",
+        "a2":"Egg McMuffin",
+        "a3":"Big Mac",
+        "a4":"Chicken McNuggets",
+        "c":"Big Mac"
+    },
+    {
+        "Q":"Biggie fries were discontinued in 2006 by what fast-food chain?",
+        "a1":"Rax",
+        "a2":"Hardees",
+        "a3":"Wendy's",
+        "a4":"Big Bobs",
+        "c":"Wendy's"
+    },
+    {
+        "Q":"Who is the mascot for McDonald's?",
+        "a1":"Dave Thomas",
+        "a2":"The King",
+        "a3":"Ronald McDonald",
+        "a4":"Ronald Burger",
+        "c":"Ronald Burger"
+    },
+    {
+        "Q":"What is the sister chain to the west-coast hamburger chain Carl's Jr.?",
+        "a1":"Mayflower",
+        "a2":"Hardee's",
+        "a3":"Subway",
+        "a4":"Long John Silver's",
+        "c":"Hardee's"
+    },
+    {
+        "Q":"What famous fast-food company lost a lawsuit for intentionally making their coffee too hot?",
+        "a1":"McDonalds",
+        "a2":"Sonic",
+        "a3":"KFC",
+        "a4":"Jack In The Box",
+        "c":"McDonalds"
+    },
+   
+    {
+        "Q":"How many herbs and spices make up the secret blend used in Col. Sanders' Kentucky Fried Chicken?",
+        "a1":"6",
+        "a2":"15",
+        "a3":"26",
+        "a4":"11",
+        "c":"11"
+    },
+    {
+        "Q":"Which of the following is actually a McDonald's food item?",
+        "a1":"McRib Sandwich",
+        "a2":"McBacon and Cheese",
+        "a3":"McTuna Salad Sandwhich",
+        "a4":"McChickie Sandwich",
+        "c":"McRib Sandwich"
+    },
+    {
+        "Q":"What is a fast-food restaurant famous for its root beer?",
+        "a1":"McDonald's",
+        "a2":"Wendy's",
+        "a3":"A&W",
+        "a4":"Pizza Hut",
+        "c":"A&W"
+    },
+    {
+        "Q":"The Cracker Barrel is a restaurant chain that started from an old country store located where?",
+        "a1":"Kentucky",
+        "a2":"Texas",
+        "a3":"Tennessee",
+        "a4":"Arkansas",
+        "c":"Tennessee"
+    },
+    {
+        "Q":"What restaurant chain do the Golden Arches represent?",
+        "a1":"Long John Silver's",
+        "a2":"Wendy's",
+        "a3":"McDonald's",
+        "a4":"Burger King",
+        "c":"McDonald's"
+    },
+    {
+        "Q":"What was the main menu item at the original Denny's restaurant in 1953?",
+        "a1":"Hamburgers",
+        "a2":"Donuts",
+        "a3":"French Fries",
+        "a4":"Fried Chicken",
+        "c":"Donuts"
+    },
+    {
+        "Q":"What fast-food restaurant has a cowboy hat as its logo?",
+        "a1":"Burger King",
+        "a2":"Arby's",
+        "a3":"McDonald's",
+        "a4":"Subway",
+        "c":"Arby's"
+    },
+    {
+        "Q":"What's the name of a pizza from Pizza Hut with all their meats on it?",
+        "a1":"Meat Galore Pizza",
+        "a2":"All Meat Pizza",
+        "a3":"Meat Eaters Pizza",
+        "a4":"Meat Lovers Pizza",
+        "c":"Meat Lovers Pizza"
+    },
+    {
+        "Q":"What burger has ingredients like two all-beef patties, special sauce, lettuce, pickles, and onions?",
+        "a1":"Quarter Pounder",
+        "a2":"Whopper",
+        "a3":"Big Mac",
+        "a4":"Sonic #1",
+        "c":"Big Mac"
+    },
+    {
+        "Q":"When Ray Kroc first started the McDonald's enterprise, how old was he?",
+        "a1":"14",
+        "a2":"31",
+        "a3":"24",
+        "a4":"52",
+        "c":"52"
+    },
+    {
+        "Q":"The McDonald's ad I'm Lovin It is taken from where?",
+        "a1":"Army Motto",
+        "a2":"Justin Timberlake Song",
+        "a3":"T-Shirt Slogan",
+        "a4":"Bob Dylan Song",
+        "c":"Justin Timberlake Song"
+    },
+    {
+        "Q":"On the sign advertising which fast food chain will you see a little girl?",
+        "a1":"Jack In The Box",
+        "a2":"Wendy's",
+        "a3":"Rax",
+        "a4":"McDonald's",
+        "c":"Wendy's"
+    },
+    {
+        "Q":"Ray Kroc opened the first McDonald's franchise in what city?",
+        "a1":"Des Plaines, IL",
+        "a2":"San Bernardino, CA",
+        "a3":"Madison, WI",
+        "a4":"New York, NY",
+        "c":"Des Plaines, IL"
+    },
+    {
+        "Q":"Who introduced California's first drive-thru hamburger stand, In-N-Out, in 1948?",
+        "a1":"Dave Thomas",
+        "a2":"Howard Schultz",
+        "a3":"MArian Ilitch",
+        "a4":"Harry Snyder",
+        "c":"Harry Snyder"
+    },
+    {
+        "Q":"Where did french fries originate?",
+        "a1":"America",
+        "a2":"France",
+        "a3":"Belgium",
+        "a4":"Germany",
+        "c":"Belgium"
+    }
+    
+   
+]
+
+
+}
